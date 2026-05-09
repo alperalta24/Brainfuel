@@ -1,0 +1,17 @@
+{
+  "name": "brainfuel",
+  "version": "1.0.0",
+  "scipts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^
+    "vite": "^4.4.0"
+  }
+}
